@@ -1,4 +1,4 @@
-'use client';
+/*'use client';
 
 import React, { useEffect } from "react";
 import SectionHeading from "./section-heading";
@@ -34,3 +34,4 @@ export default function Projects() {
 }
 
 
+*/

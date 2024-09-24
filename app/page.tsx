@@ -1,7 +1,7 @@
 'use client'
 import About from "@/components/about";
 import Intro from "@/components/intro";
-import Projects from "@/components/projects";
+//import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 import Experience  from "@/components/experience";
@@ -16,7 +16,7 @@ export default function Home() {
     <Intro />
     <SectionDivider />
     <About />
-    <Projects />
+    
     <Skills />
     <Experience />
     <Contact />

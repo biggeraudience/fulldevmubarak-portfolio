@@ -1,4 +1,4 @@
-'use client';
+/*'use client';
 
 import { projectsData } from "@/lib/data";
 import { motion, useScroll, useTransform } from "framer-motion";
@@ -68,4 +68,4 @@ export default function Project({ title,description,tags,imageUrl }: ProjectProp
     </section>
     </motion.div>
     );
-}
+}*/
